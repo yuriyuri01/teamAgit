@@ -1,0 +1,9 @@
+diff a/login.html b/login.html	(rejected hunks)
+@@ -8,7 +8,6 @@
+ 
+   <body>
+     <h1>로그인페이지</h1>
+-    <p>팀원이 추가한 로그인 페이지 추가내용</p>
+     <p>이제는 되어야만 해~~~~</p>
+   </body>
+ </html>
